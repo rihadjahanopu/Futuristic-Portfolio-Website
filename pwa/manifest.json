@@ -8,11 +8,9 @@
   "short_name": "Rihad",
   "description": "Rihad Jahan Opu - Full-Stack Web Developer",
   "orientation": "any",
-  "theme_color": "hsl(0, 0%, 7%)",
-  "background_color": "hsl(0, 0%, 7%)",
-  "related_applications": [],
+  "theme_color": "#121212",
+  "background_color": "#121212",
   "prefer_related_applications": false,
-
   "icons": [
     {
       "src": "/pwa/icons/windows10/Square71x71Logo.scale-400.png",
@@ -628,5 +626,7 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
-  ]
+  ],
+  "id": "Rihad",
+  "categories": ["lifestyle"]
 }
