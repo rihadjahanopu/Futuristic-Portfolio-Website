@@ -15,12 +15,6 @@
 
   "icons": [
     {
-      "src": "logo.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
       "src": "/pwa/icons/windows10/Square71x71Logo.scale-400.png",
       "sizes": "284x284",
       "type": "image/png",
