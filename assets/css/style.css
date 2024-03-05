@@ -530,6 +530,12 @@ main {
 
 .about-text p {
   margin-bottom: 15px;
+  padding-right: 10px;
+  text-align: justify;
+}
+
+.img-pro {
+  display: none;
 }
 
 /**
@@ -2043,6 +2049,21 @@ textarea.form-input::-webkit-resizer {
     width: 100%;
     margin-bottom: 30px;
     display: inline-block;
+  }
+  .img-pro {
+    display: block;
+    width: 100%;
+    padding: 20px;
+  }
+
+  .about-text-part {
+    width: 60%;
+    flex-grow: 1;
+  }
+  .about-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
 }
 .my {
